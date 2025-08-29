@@ -1,5 +1,3 @@
-## Welcome to GitHub Pages
-
 # Zander Hesse's First CS193 Homework
 - I enjoy the minimized time to ensure that we learn the critical information without taking up enormous amounts of time
 - I appreciate the useful information that this course will teach me
